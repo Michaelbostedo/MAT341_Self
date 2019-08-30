@@ -1,0 +1,8 @@
+Notes on Terminal Commands
+
+-ls lists every file or folder in directory
+
+esc is to stop editing
+
+:#- takes you to that line #
+
