@@ -5,4 +5,6 @@ Notes on Terminal Commands
 esc is to stop editing
 
 :#- takes you to that line #
+:)
+
 
