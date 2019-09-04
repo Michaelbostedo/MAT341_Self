@@ -1,0 +1,6 @@
+ i to start typing
+ esc to stop typing
+ :w to save 
+ :q to quit
+ :# to go to that line number
+
