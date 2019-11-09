@@ -23,7 +23,8 @@ xlabel('Error Tolerance');
 ylabel('Number of Iterations');
 leg = legend('Succ. Par. Interp.');
 
-hold off    
+hold off   
+end
 % a)The successive_Parabolic_Interpolation appears to converge to the minimum faster than golden_Search%
 % b)When the accuracy threshold reaches a certain point the golden search will converge the min quicler than 
 %successive_Parabolic_Interpolation. The x values are changing slower than in previous steps.%
